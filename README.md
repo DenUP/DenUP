@@ -8,7 +8,9 @@
         <a href="https://github.com/DenUP/shedule" style="text-decoration:none; color:#007bff;"> <img src="img/shedule.gif" style="width:100%; height:100%; object-fit:cover;">
         </div>
         <br>
-      <b style="font-size:1.2em;">📅 Shedule - Актуально расписание для учебы</b>
+      <b style="font-size:1.2em;">📅 
+      <a href="https://github.com/DenUP/shedule" style="text-decoration:none; color:#007bff;">
+      Shedule - Актуально расписание для учебы</b>
         <br>
       </a>
       </td>
@@ -18,7 +20,7 @@
           <img src="img/todoPurrweb.gif" style="width:100%; height:100%; object-fit:cover;">
         </div>
         <br>
-        <b style="font-size:1.2em;">🚀 TODO - стажировка в Purrweb</b>
+        <b style="font-size:1.2em;">🚀 <a href="https://github.com/DenUP/todo-list-part-2-purrweb" style="text-decoration:none; color:#007bff;">TODO - стажировка в Purrweb</b>
         <br>
    </a>
       </td>
